@@ -1,0 +1,23 @@
+body{
+    background-color: grey;
+}
+div{
+    background-image: url(mont4.jpg);
+    background-clip: text;
+     background-position:30% 50%; 
+    background-size: cover;
+}
+h1{
+    color: transparent;
+    font-size: 6em;
+    font-weight: bold;
+
+    }
+p::first-letter{
+    font-size: 8em;
+    color:transparent;
+}
+p{
+    font-size: 5em;
+    color: black;
+}
